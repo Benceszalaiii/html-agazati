@@ -1,0 +1,25 @@
+{
+  "name": "html-agazati",
+  "displayName": "Basic HTML Ágazati",
+  "description": "Your starter kit for HTML Ágazati",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "publisher": "benceszalaiii",
+  "repository": "",
+  "extensionPack": [ 
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "ecmel.vscode-html-css",
+    "ritwickdey.LiveServer",
+    "hossaini.bootstrap-intellisense"
+  ]
+}
