@@ -10,7 +10,8 @@
     "Extension Packs"
   ],
   "publisher": "benceszalaiii",
-  "repository": "",
+  "repository": "https://github.com/Benceszalaiii/html-agazati",
+  "icon": "logo.webp",
   "extensionPack": [ 
     "formulahendry.auto-close-tag",
     "formulahendry.auto-rename-tag",
